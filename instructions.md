@@ -18,7 +18,6 @@ const users = {
   .
 };
 ```
-
 And the `profiles` array has a combination of which users like which movies:
 
 ```js teste
